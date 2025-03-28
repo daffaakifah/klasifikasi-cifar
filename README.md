@@ -1,8 +1,8 @@
 # Klasifikasi Gambar CIFAR-10  
 
-## Deskripsi Proyek Proyek ini bertujuan untuk mengklasifikasikan gambar menggunakan dataset CIFAR-10.
+### Proyek ini bertujuan untuk mengklasifikasikan gambar menggunakan dataset CIFAR-10. Dataset: https://www.cs.toronto.edu/~kriz/cifar.html
 
-## Dataset Dataset CIFAR-10 terdiri dari 60.000 gambar berwarna yang terbagi dalam 10 kelas. Berikut adalah kelas-kelas dalam dataset: 
+### Dataset Dataset CIFAR-10 terdiri dari 60.000 gambar berwarna yang terbagi dalam 10 kelas. Berikut adalah kelas-kelas dalam dataset: 
  ['pesawat', 'mobil', 'burung', 'kucing', 'rusa', 'anjing', 'katak', 'kuda', 'kapal', 'truk']
 
 ## Bagan Proyek:
